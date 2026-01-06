@@ -18,4 +18,5 @@ The notes section also includes how I found cost proxies for components when exa
 
 ### Project Data
 You can view the project data by downloading the full Excel file or clicking the satellite_ data.csv and satellite_sources_notes.csv from the below link.
+
 [Click here to view the Excel Modeler Data](https://github.com/ndegregory/Space-Systems-Cost-Risk-Modeler/blob/main/Space%20Systems%20Cost%20and%20Risk%20Modeler.xlsx)
