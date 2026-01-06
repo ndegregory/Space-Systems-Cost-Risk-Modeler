@@ -12,6 +12,7 @@ I conducted extensive research on satellite components to find basic specs, proc
 Many aerospace companies don't publicly disclose processor architectures, so I've added a notes section that states whether the architecture is:
 * **Confirmed** through datasheets
 * **Inferred** based on performance benchmarks and historical hardware architectures.
+
 The notes section also includes how I found cost proxies for components when exact pricing was unavailable.
 ---
 
